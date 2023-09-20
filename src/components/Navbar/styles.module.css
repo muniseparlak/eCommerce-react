@@ -1,0 +1,36 @@
+.nav{
+    padding: 13px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px pink ;
+    align-items: center;
+}
+
+.nav .left {
+    display: flex;
+}
+
+.nav .left .menu {
+    display: flex;
+    margin-left: 40px;
+}
+
+.nav .left .menu li a {
+    color: rgb(136, 130, 130);
+    text-decoration: none;
+    font-size: 1.1rem;
+    padding: 3px 16px;
+    display: block;
+}
+
+.nav .left .menu li a:hover {
+    color: black;
+}
+
+.nav .right a:first-child {
+    margin-right: 5px;
+}
+
+.logo {
+    font-weight: 600;
+}
