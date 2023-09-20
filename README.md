@@ -1,3 +1,3 @@
 # eCommerce sitesi react
 
-![https://github.com/muniseparlak/eCommerce-react/blob/main/eCommerce-react.png]
+![eCommerce](https://github.com/muniseparlak/eCommerce-react/blob/main/eCommerce-react.png)
